@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space-rush", "space-rush.csproj", "{086F22A0-2AEB-DFE2-6CEF-AE66EF9F2C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space-rush.Editor", "space-rush.Editor.csproj", "{BADE487C-7A97-4EB6-B013-0DAA03747650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086F22A0-2AEB-DFE2-6CEF-AE66EF9F2C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086F22A0-2AEB-DFE2-6CEF-AE66EF9F2C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086F22A0-2AEB-DFE2-6CEF-AE66EF9F2C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086F22A0-2AEB-DFE2-6CEF-AE66EF9F2C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADE487C-7A97-4EB6-B013-0DAA03747650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADE487C-7A97-4EB6-B013-0DAA03747650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADE487C-7A97-4EB6-B013-0DAA03747650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADE487C-7A97-4EB6-B013-0DAA03747650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C42C9F3-DD43-4E41-B328-BF6C9CFF129C}
+	EndGlobalSection
+EndGlobal
